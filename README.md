@@ -1,4 +1,9 @@
-### Hi there 👋
+# Oi 👋
+
+Hello, I am Fredrik Aronsson - a front-end developer currently working at Volvo Group Connected Solutions.
+
+
+[💬 Let's Connect](https://www.linkedin.com/in/fredrik-aronsson/)
 
 <!--
 **AronssonFredrik/AronssonFredrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
